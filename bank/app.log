@@ -1,0 +1,109 @@
+[2025-08-13 14:40:17,303 - INFO]- Welcome to the online codegnan Banking
+[2025-08-13 14:40:27,085 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-13 14:41:42,658 - INFO]- Welcome to the online codegnan Banking
+[2025-08-13 14:41:49,046 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-13 14:41:49,046 - INFO]- User successfully login
+[2025-08-13 14:41:49,047 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-13 15:04:20,729 - INFO]- Welcome to the online codegnan Banking
+[2025-08-13 15:04:31,463 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-13 15:04:31,463 - INFO]- User successfully login
+[2025-08-13 15:04:31,464 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-13 15:05:03,186 - INFO]- Welcome to the online codegnan Banking
+[2025-08-13 15:05:07,951 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-13 15:05:07,951 - INFO]- User successfully login
+[2025-08-13 15:05:07,952 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-13 15:05:09,932 - INFO]- select operation is 3. deposite
+
+[2025-08-13 15:05:09,932 - INFO]- user in deposite page
+[2025-08-15 09:40:44,215 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 09:40:52,589 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 09:40:52,589 - INFO]- User successfully login
+[2025-08-15 09:40:52,590 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 09:41:01,158 - INFO]- select operation is 1. Balance
+
+[2025-08-15 09:41:01,159 - INFO]- user in balance page
+[2025-08-15 09:41:01,159 - INFO]- 1234 user current balence is 1000
+[2025-08-15 10:04:24,037 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:04:30,546 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:04:30,546 - INFO]- User successfully login
+[2025-08-15 10:04:30,547 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:04:32,710 - INFO]- select operation is 2. withdraw
+
+[2025-08-15 10:04:32,710 - INFO]- user in withdraw page
+[2025-08-15 10:05:26,403 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:05:33,085 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:05:33,086 - INFO]- User successfully login
+[2025-08-15 10:05:33,087 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:05:34,816 - INFO]- select operation is 2. withdraw
+
+[2025-08-15 10:05:34,817 - INFO]- user in withdraw page
+[2025-08-15 10:05:41,522 - INFO]- Insufficent amount
+[2025-08-15 10:06:36,690 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:06:42,672 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:06:42,672 - INFO]- User successfully login
+[2025-08-15 10:06:42,673 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:06:44,751 - INFO]- select operation is 1. Balance
+
+[2025-08-15 10:06:44,751 - INFO]- user in balance page
+[2025-08-15 10:06:44,751 - INFO]- 1234 user current balence is 1000
+[2025-08-15 10:07:06,022 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:07:12,205 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:07:12,205 - INFO]- User successfully login
+[2025-08-15 10:07:12,206 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:07:14,966 - INFO]- select operation is 2. withdraw
+
+[2025-08-15 10:07:14,966 - INFO]- user in withdraw page
+[2025-08-15 10:07:50,860 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:07:59,676 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:07:59,677 - INFO]- User successfully login
+[2025-08-15 10:07:59,678 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:08:01,912 - INFO]- select operation is 2. withdraw
+
+[2025-08-15 10:08:01,912 - INFO]- user in withdraw page
+[2025-08-15 10:08:06,592 - INFO]- 2000withdraw successful and current balance is23000
+[2025-08-15 10:35:19,837 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:35:37,713 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:35:37,713 - INFO]- User successfully login
+[2025-08-15 10:35:37,714 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:35:41,437 - INFO]- select operation is 3. deposite
+
+[2025-08-15 10:35:41,437 - INFO]- user in deposite page
+[2025-08-15 10:35:47,180 - INFO]- 1000 is deposited successful and current balance is 2000
+[2025-08-15 10:35:54,420 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:36:03,123 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:36:03,123 - INFO]- User successfully login
+[2025-08-15 10:36:03,124 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:36:05,699 - INFO]- select operation is 3. deposite
+
+[2025-08-15 10:36:05,700 - INFO]- user in deposite page
+[2025-08-15 10:36:12,968 - INFO]- 5000 is deposited successful and current balance is 30000
+[2025-08-15 10:56:43,716 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:59:01,957 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:59:01,958 - WARNING]- Please check the user credentials
+[2025-08-15 10:59:01,958 - WARNING]- User not found,please check your credentials
+[2025-08-15 10:59:09,730 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 10:59:18,664 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 10:59:18,665 - INFO]- User successfully login
+[2025-08-15 10:59:18,666 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 10:59:22,433 - INFO]- select operation is 4. transfer
+
+[2025-08-15 10:59:22,433 - INFO]- user in transfer page
+[2025-08-15 10:59:35,969 - INFO]- Recevier account is 1234 and amount is 155
+[2025-08-15 10:59:35,970 - INFO]- 155 transfer successfully and current balence is 2845
+[2025-08-15 11:03:47,433 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 11:03:59,429 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 11:03:59,429 - INFO]- User successfully login
+[2025-08-15 11:03:59,431 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 11:04:03,907 - INFO]- select operation is 5. History
+
+[2025-08-15 11:04:03,908 - INFO]- user in history page
+[2025-08-15 11:04:12,978 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 11:04:21,634 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 11:04:21,635 - WARNING]- Please check the pin
+[2025-08-15 11:04:21,635 - WARNING]- User not found,please check your credentials
+[2025-08-15 11:04:24,953 - INFO]- Welcome to the online codegnan Banking
+[2025-08-15 11:04:30,063 - INFO]- user credentials are {account_no}and {pin}
+[2025-08-15 11:04:30,063 - INFO]- User successfully login
+[2025-08-15 11:04:30,066 - INFO]- ('1. Balance\n', '2. withdraw\n', '3. deposite\n', '4. transfer\n', '5. History\n', '6. Exit\n')
+[2025-08-15 11:04:32,567 - INFO]- select operation is 6. Exit
+
